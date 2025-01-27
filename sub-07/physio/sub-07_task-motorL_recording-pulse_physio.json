@@ -1,0 +1,13 @@
+{
+    "SamplingFrequency": 400,
+    "StartTime": 23263660,
+    "Columns": [
+        "PULS",
+        "Trigger"
+    ],
+    "Units": [
+        "a.u.",
+        "boolean"
+    ],
+    "Duration": 556502
+}
