@@ -2,7 +2,7 @@
     "Name": "CoSpine Database_motor_dataset",
     "BIDSVersion": "1.8.0",
     "DatasetType": "raw",
-    "License": "CC-BY",
+    "License": "CC0",
     "Authors": [
         "Zhaoxing Wei",
         "Xiaomin Lin",
@@ -20,5 +20,5 @@
         "Beijing Natural Science Foundation (IS23108)"
     ],
     "ReferencesAndLinks": [],
-    "DatasetDOI": ""
+    "DatasetDOI": "https://openneuro.org/datasets/ds005884"
 }
