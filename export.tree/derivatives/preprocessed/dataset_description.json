@@ -1,6 +1,0 @@
-{
-  "Name": "CoSpine motor preprocessed",
-  "BIDSVersion": "1.9.0",
-  "PipelineDescription": { "Name": "FSL+SCT", "Version": "2025-06-19" },
-  "SourceDatasets": [{ "URL": "https://openneuro.org/datasets/ds005884", "Version": "1.0.0" }]
-}
