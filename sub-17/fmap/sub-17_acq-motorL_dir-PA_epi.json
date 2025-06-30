@@ -59,7 +59,6 @@
   "RefLinesPE": 40,
   "CoilCombinationMethod": "Adaptive Combine",
   "ConsistencyInfo": "N4_VE11C_LATEST_20160120",
-  "MultibandAccelerationFactor": 2,
   "PercentPhaseFOV": 100,
   "PercentSampling": 100,
   "EchoTrainLength": 55,
@@ -163,5 +162,10 @@
   "MatrixCoilMode": "GRAPPA",
   "PulseSequenceType": "EPI",
   "B0FieldIdentifier": "b0map",
-  "MTState": false
+  "MTState": false,
+  "GradientSetType": "XR",
+  "ParallelReductionFactorOutOfPlane": 1,
+  "ParallelAcquisitionTechnique": "GRAPPA",
+  "PartialFourierDirection": "PHASE",
+  "SliceEncodingDirection": "k"
 }
