@@ -1,8 +1,4 @@
 {
-    "participant_id": {
-        "Description": "Participant identifier",
-        "Units": "N/A"
-    },
     "age": {
         "Description": "Age of the participant",
         "Units": "years"
