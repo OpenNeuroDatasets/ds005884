@@ -20,7 +20,7 @@
         "Beijing Natural Science Foundation (IS23108)"
     ],
     "ReferencesAndLinks": [],
-    "DatasetDOI": "https://openneuro.org/datasets/ds005884",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005884.v1.1.0",
     "GeneratedBy": [
         {
             "Name": "dcm2niix",
