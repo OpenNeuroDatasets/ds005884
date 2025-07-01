@@ -90,5 +90,10 @@
   "MTState": false,
   "NumberShots": 1,
   "PulseSequenceType": "MPRAGE",
-  "TotalReadoutTime": 0.001956
+  "TotalReadoutTime": 0.001956,
+  "ParallelReductionFactorOutOfPlane": 1,
+  "ParallelAcquisitionTechnique": "GRAPPA",
+  "MixingTime": 0,
+  "PhaseEncodingDirection": "j",
+  "MultibandAccelerationFactor": 0
 }

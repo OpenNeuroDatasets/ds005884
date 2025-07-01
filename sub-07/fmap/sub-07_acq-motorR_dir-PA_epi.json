@@ -167,5 +167,7 @@
   "ParallelReductionFactorOutOfPlane": 1,
   "ParallelAcquisitionTechnique": "GRAPPA",
   "PartialFourierDirection": "PHASE",
-  "SliceEncodingDirection": "k"
+  "SliceEncodingDirection": "k",
+  "MixingTime": 0.0,
+  "MultibandAccelerationFactor": 2
 }
