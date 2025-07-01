@@ -20,5 +20,13 @@
         "Beijing Natural Science Foundation (IS23108)"
     ],
     "ReferencesAndLinks": [],
-    "DatasetDOI": "https://openneuro.org/datasets/ds005884"
+    "DatasetDOI": "https://openneuro.org/datasets/ds005884",
+    "GeneratedBy": [
+        {
+            "Name": "dcm2niix",
+            "Version": "v1.0.20190410",
+            "Description": "Converted DICOM to NIfTI and generated BIDS metadata"
+        }
+    ],
+    "SourceDatasets": []
 }
